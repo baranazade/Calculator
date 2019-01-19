@@ -12,7 +12,9 @@ public class Calculatorr {
 
     public static double substraction(double n1, double n2){
 
-        return n1 - n2 ;
+        double result = n1 - n2;
+
+        return result  ;
     }
 
 }
