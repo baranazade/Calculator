@@ -10,5 +10,10 @@ public class Calculatorr {
         return sum;
     }
 
+    public static double substraction(double n1, double n2){
+
+        return n1 - n2 ;
+    }
+
 }
 
